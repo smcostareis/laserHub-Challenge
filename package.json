@@ -1,0 +1,23 @@
+{
+  "name": "laserHub-Challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smcostareis/laserHub-Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smcostareis/laserHub-Challenge/issues"
+  },
+  "homepage": "https://github.com/smcostareis/laserHub-Challenge#readme",
+  "devDependencies": {
+    "cypress": "^9.5.3"
+  }
+}
