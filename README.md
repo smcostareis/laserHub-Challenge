@@ -21,12 +21,16 @@ Inside the file we need to add the user credentials ; email and password:
 
 Run the command to install the project:
 `$ npm install`
+
 Run the command to run the project: 
 `$ npm run test`
+
 Run the command to open Cypress dashboard and trigger the tests manually:
 `$ npx cypress run`
+
 Run the follwing commands to build and run the frameworkd through docker container:
 `$ docker build -t anyContainerName .`
+
 `$ docker run -p 8080:8081 anyContainerName`
 
 
